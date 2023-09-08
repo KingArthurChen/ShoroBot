@@ -1,0 +1,2 @@
+# ShoroBot
+Pokemon bot
